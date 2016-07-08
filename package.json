@@ -1,0 +1,15 @@
+{
+  "name": "jason2commas",
+  "version": "1.0.0",
+  "description": "Script para pasar un json a un archivo .csv",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chuck Cruz",
+  "license": "ISC",
+  "dependencies": {
+    "JSONStream": "^1.1.3",
+    "event-stream": "^3.3.3"
+  }
+}
